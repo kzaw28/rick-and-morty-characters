@@ -1,0 +1,16 @@
+{
+  "name": "rick-and-morty-characters",
+  "version": "1.0.0",
+  "description": "Outputs all rick and morty characters to the webpage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kaung Khant Zaw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7"
+  }
+}
